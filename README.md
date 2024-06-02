@@ -1,1 +1,1 @@
-# finance_management_tool
+# finance_management_application
